@@ -1,0 +1,2 @@
+# BPF-for-audio-with-variable-cutoff-frequency-by-user
+This project designs an adaptive BPF in MATLAB, allowing users to set lower and upper cutoff freq to enhance audio quality. It isolates desired frequencies while reducing noise. The system loads file, applies the filter, analyzes time-frequency characteristics, and saves the output. This improves speech, music, and noise reduction applications.
